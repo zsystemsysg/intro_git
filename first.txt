@@ -5,3 +5,4 @@ git commit
 git add2
 git rm
 git status
+git diff
