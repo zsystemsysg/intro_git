@@ -2,3 +2,4 @@ gitの練習をしていきます。
 基本的なWFを学びます。
 git add
 git commit
+git add2
